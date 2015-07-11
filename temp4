@@ -1,0 +1,11 @@
+
+total 44            
+-rwxr-xr-x 1 alagu devgroup    72 Jul 10 17:44 addlinenumbersto.sed         
+drwxr-xr-x 2 alagu devgroup  4096 Jul 10 17:13 DOESDOTSTARMATCHANEWLINEASWELL
+-rw-r--r-- 1 alagu devgroup 11358 Jul 11 17:53 LICENSE
+drwxr-xr-x 2 alagu devgroup  4096 Jul 11 17:46 MultipleLines        
+-rwxr-xr-x 1 alagu devgroup   221 Jul  9 21:34 script1.sed
+-rwxr-xr-x 1 alagu devgroup   275 Jul  9 21:47 script2.sed
+-rwxr-xr-x 1 alagu devgroup   347 Jul 11 18:10 script3.sed
+-rw-r--r-- 1 alagu devgroup    25 Jul  9 21:28 temp1
+-rw-r--r-- 1 alagu devgroup  1242 Jul  9 21:28 temp2
