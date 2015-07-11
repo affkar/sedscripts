@@ -1,0 +1,1 @@
+Yes .* matches \n in multiline mode which is switched on if N or P or D is used.
