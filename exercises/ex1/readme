@@ -1,0 +1,7 @@
+This is a test to mimic tail all in sed
+
+
+tail -n <numberoflines> <filename>
+
+sedscript abc.txt <numberoflines> <> 
+

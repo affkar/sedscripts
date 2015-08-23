@@ -1,0 +1,10 @@
+a file contains 
+
+one hello mate. how are you?
+I'm fine mate. how are you? two
+one hello mate. how are you? line3
+This line contains three and hence shouldn't be deleted.
+
+
+Write a sed program to delete a line if it started with one and the following line ended with two and 
+delete the first word "one" if the following line didn't end with two.

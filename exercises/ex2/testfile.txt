@@ -1,0 +1,4 @@
+one hello mate. how are you?
+I'm fine mate. how are you? two
+one hello mate. how are you? line3
+This line contains three and hence shouldn't be deleted.
